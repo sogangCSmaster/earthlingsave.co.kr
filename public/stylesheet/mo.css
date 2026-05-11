@@ -1,0 +1,49 @@
+.nav-link { font: 16px Apple_regular; letter-spacing: 0.42px; color: #FFFFFF; }
+.nav-link:hover { color: #70BE46; }
+
+.section1-image1-mo, .section1-image2-mo, .section1-image3-mo { display: block; }
+.section1-image1-576, .section1-image1-768, .section1-image1-1400,
+.section1-image2-576, .section1-image2-768, .section1-image2-1400,
+.section1-image3-576, .section1-image3-768, .section1-image3-1400 { display: none; }
+
+.section1-video-1400 { display: none; }
+.section1-video-mo { display: block; height: 450px; }
+
+.section2-image1-mo, .section2-image2-mo, .section2-image3-mo, .section2-image4-mo { display: block; }
+.section2-image1-576, .section2-image1-768, .section2-image1-1400,
+.section2-image2-576, .section2-image2-768, .section2-image2-1400,
+.section2-image3-576, .section2-image3-768, .section2-image3-1400,
+.section2-image4-576, .section2-image4-768, .section2-image4-1400 { display: none; }
+
+.section2-icon1-mo { display: block; position: absolute; bottom: -20px; left: 0; z-index: 3; }
+.section2-icon1-360, .section2-icon1-576, .section2-icon1-768, .section2-icon1-1400 { display: none; }
+.section2-icon2-mo { display: block; position: absolute; top: 30px; right: 0; z-index: 3; }
+.section2-icon2-360, .section2-icon2-576, .section2-icon2-768, .section2-icon2-1400 { display: none; }
+
+#section3 { padding: 70px 0; }
+.section3-icon1-mo { display: inline-block; }
+.section3-icon1-576 { display: none; }
+#wifi { display: none; }
+.portfolioText { font: 34px/40px Aller_bold; letter-spacing: 1.16px; margin-top: 25px; color: white; }
+#portfolioSection { margin: 40px auto 0; }
+#portfolioRow { margin: 0 -5px; }
+.portfolioPadding { padding: 5px; width: 33.333333%; }
+.portfolioHover { display: none; }
+.portfolioMo { display: block; }
+#laodMorePost { border: 2px solid #94C118; background-color: #70BE46; margin-top: 40px; width: 235px; height: 50px; font: 16px Lato_light; letter-spacing: 0.54px; color: white; cursor: pointer; }
+
+.section4-icon1-mo { display: inline-block; }
+.section4-icon1-576 { display: none; }
+.partnerText { font: 34px/40px Aller_bold; letter-spacing: 1.16px; margin-top: 25px; color: #060C24; }
+#partnerSection { margin: 45px auto 0; }
+.partnerPadding { padding: 5px; width: 33.333333%; }
+
+#section5 { padding: 80px 0 0; }
+.businessCEO { font: 18px/22px Apple_light; color: white; letter-spacing: 0.47px; margin-top: 35px; }
+.businessAddr { font: 16px/22px Apple_light; color: white; letter-spacing: 0.47px; margin-top: 30px; }
+#mapContainer { max-width: none; margin: 40px auto 0; }
+#map { width: 100%; height: 280px; }
+
+footer {
+  padding: 25px 0; font: 13px Apple_light; color: #080D24; letter-spacing: 0.34px;
+}

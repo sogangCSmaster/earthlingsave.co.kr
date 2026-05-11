@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://earthlingsave.co.kr/sitemap.xml

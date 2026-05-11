@@ -1,0 +1,16 @@
+@media (min-width: 361px) {
+  .section2-icon1-360 { display: block; position: absolute; bottom: -20px; left: 0; z-index: 3; }
+  .section2-icon1-mo, .section2-icon1-576, .section2-icon1-768, .section2-icon1-1400 { display: none; }
+  .section2-icon2-360 { display: block; position: absolute; top: 30px; right: 0; z-index: 3; }
+  .section2-icon2-mo, .section2-icon2-576, .section2-icon2-768, .section2-icon2-1400 { display: none; }
+
+  #portfolioSection { max-width: 768px; margin: 45px auto 0; }
+  #portfolioRow { margin: 0 -5px; }
+  .portfolioPadding { padding: 5px; width: 33.333333%; }
+
+  #partnerSection { max-width: 768px; margin: 45px auto 0; }
+  .partnerPadding { padding: 5px; width: 33.333333%; }
+
+  .businessCEO { font: 20px/26px Apple_light; color: white; letter-spacing: 0.52px; margin-top: 45px; }
+  .businessAddr { font: 20px/26px Apple_light; color: white; letter-spacing: 0.52px; margin-top: 20px; }
+}

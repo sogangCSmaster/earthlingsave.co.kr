@@ -1,0 +1,33 @@
+@media (min-width: 1400px) {
+  #navi { max-width: none; width: 1400px; margin: 0 auto; }
+  .nav-link { padding: 0 !important; margin-left: 60px; }
+
+  .section1-image1-1400, .section1-image2-1400, .section1-image3-1400 { display: block; }
+  .section1-image1-mo, .section1-image1-576, .section1-image1-768,
+  .section1-image2-mo, .section1-image2-576, .section1-image2-768,
+  .section1-image3-mo, .section1-image3-576, .section1-image3-768 { display: none; }
+
+  .section1-video-1400 { display: block; }
+  .section1-video-mo { display: none; }
+
+  .section2-image1-1400, .section2-image2-1400, .section2-image3-1400, .section2-image4-1400 { display: block; }
+  .section2-image1-mo, .section2-image1-576, .section2-image1-768,
+  .section2-image2-mo, .section2-image2-576, .section2-image2-768,
+  .section2-image3-mo, .section2-image3-576, .section2-image3-768,
+  .section2-image4-mo, .section2-image4-576, .section2-image4-768 { display: none; }
+
+  .section2-icon1-1400 { display: block; position: absolute; top: 35px; left: 0; z-index: 3; }
+  .section2-icon1-mo, .section2-icon1-360, .section2-icon1-576, .section2-icon1-768 { display: none; }
+  .section2-icon2-1400 { display: block; position: absolute; bottom: -150px; right: 0; z-index: 3; }
+  .section2-icon2-mo, .section2-icon2-360, .section2-icon2-576, .section2-icon2-768 { display: none; }
+
+  #portfolioSection { max-width: none; width: 1400px; margin: 45px auto 0; }
+  #portfolioRow { margin: 0 -10px; }
+  .portfolioPadding { padding: 10px; width: 25%; }
+
+  #partnerSection { max-width: none; width: 1400px; margin: 45px auto 0; }
+  .partnerPadding { padding: 5px; width: 235px; }
+
+  #mapContainer { width: 930px; margin: 50px auto 0; }
+  #map { height: 510px; }
+}

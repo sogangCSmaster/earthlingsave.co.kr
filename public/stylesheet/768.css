@@ -1,0 +1,35 @@
+@media (min-width: 768px) {
+  #navi { max-width: 1260px; margin: 0 auto; }
+  .nav-link { padding: 0 !important; margin-left: 20px; font: 19px/44px Aller_light; letter-spacing: 0.57px; color: #E3E3E3; }
+
+  .section1-image1-768, .section1-image2-768, .section1-image3-768 { display: block; }
+  .section1-image1-mo, .section1-image1-576, .section1-image1-1400,
+  .section1-image2-mo, .section1-image2-576, .section1-image2-1400,
+  .section1-image3-mo, .section1-image3-576, .section1-image3-1400 { display: none; }
+
+  .section1-video-mo { height: 942px; }
+
+  .section2-image1-768, .section2-image2-768, .section2-image3-768, .section2-image4-768 { display: block; }
+  .section2-image1-mo, .section2-image1-576, .section2-image1-1400,
+  .section2-image2-mo, .section2-image2-576, .section2-image2-1400,
+  .section2-image3-mo, .section2-image3-576, .section2-image3-1400,
+  .section2-image4-mo, .section2-image4-576, .section2-image4-1400 { display: none; }
+
+  .section2-icon1-768 { display: block; position: absolute; top: 35px; left: 0; z-index: 3; }
+  .section2-icon1-mo, .section2-icon1-360, .section2-icon1-576, .section2-icon1-1400 { display: none; }
+  .section2-icon2-768 { display: block; position: absolute; bottom: -150px; right: 0; z-index: 3; }
+  .section2-icon2-mo, .section2-icon2-360, .section2-icon2-576, .section2-icon2-1400 { display: none; }
+
+  #portfolioSection { max-width: 1088px; margin: 45px auto 0; }
+  #portfolioRow { margin: 0; }
+  .portfolioPadding { padding: 7px; width: 33.333333%; }
+  .portfolioTitle { display: block; font: 32px Apple_regular; letter-spacing: 0.83px; color: white; }
+  .portfolioView { margin-top: 30px; }
+
+  #partnerSection { max-width: 1088px; margin: 45px auto 0; }
+  .partnerPadding { padding: 5px; width: 25%; }
+
+  #section5 { padding: 80px 0; }
+  #mapContainer { max-width: 1088px; margin: 50px auto 0; padding: 0 10px; }
+  #map { width: 100%; height: 510px; }
+}
