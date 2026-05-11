@@ -13,6 +13,8 @@
 - `public/javascript/map.js`: Kakao 지도 초기화와 페이지 초기화 진입점
 - `public/CNAME`: GitHub Pages 커스텀 도메인
 
+포트폴리오 카드 썸네일과 이미지 모달에 쓰는 정적 이미지는 `public/image/portfolio/`에 보관합니다. 첫 화면 MP4는 `public/video/`에 보관합니다. YouTube iframe처럼 외부 플레이어가 필요한 미디어만 외부 URL을 유지합니다.
+
 ## 로컬 확인
 
 ```bash
